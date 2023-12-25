@@ -1,5 +1,5 @@
-# Date :
-# Correlation and regression for data analysis
+# DATE : 03/11/2023
+# EXP NO :3-Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -21,7 +21,9 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-`````
+```
+Developed by:ARULARASI U
+Register No: 212223100002
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -54,10 +56,12 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
-`````
+```
+
 
 # Output 
-![image](https://github.com/Arularasi-17/Correlation_Regression/assets/147410018/7f27d667-abbc-49a1-bb66-2c3b76a53ed7)
+![image](https://github.com/Arularasi-17/Correlation_Regression/assets/147410018/3f8f6030-3ffc-4703-a1fa-4d7c3987a58d)
+
 
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
